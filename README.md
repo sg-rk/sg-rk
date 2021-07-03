@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ranjithkumar S G
-- 👀 I’m working in web development( Angular2 / JavaScript / Html5 / CSS / PHP
+- 👀 I’m working in web development( Angular2 / JavaScript / JQuery / Html5 / CSS / PHP / MySQL )
 - 💞️ I’m looking to collaborate on frontend web development
 - 📫 How to reach me<br>
    📧 Email - sgrkranjithkumar@gmail.com<br>
