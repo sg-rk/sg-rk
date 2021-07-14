@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on frontend web development
 - 📫 How to reach me<br>
    📧 Email - sgrkranjithkumar@gmail.com<br>
-   📱 Mobile - 9043079790
+   📱 Mobile - 9043097970
 - Portfolio - https://ranjithkumar.web.app/
   
 <!---
