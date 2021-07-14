@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ranjithkumar S G
+- 👋 Hi, I’m Ranjithkumar SG
 - 👀 I’m working in web development( Angular2 / JavaScript / JQuery / Html5 / CSS / PHP / MySQL )
 - 💞️ I’m looking to collaborate on frontend web development
 - 📫 How to reach me<br>
