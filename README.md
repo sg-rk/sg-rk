@@ -5,7 +5,7 @@
    📧 Email - sgrkranjithkumar@gmail.com<br>
    📱 Mobile - 9043097970
 - Portfolio - https://ranjithkumar.web.app/
-- Skills - MEAN, PHP, MySQL
+- Skills - MEAN, PHP, MySQL, AWS, ORACLE, REDIS, HIBERNATE
 - Sample workouts,
    1. RK Task Strategi https://rk-task-strategi.web.app/
       Username: admin,
