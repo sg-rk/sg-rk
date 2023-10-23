@@ -6,7 +6,7 @@
    📱 Mobile - 9092269469
 - Resume - https://drive.google.com/file/d/1lOrlQi0GZbKwHzQ9L1NF3sXEBrT66MAC/view?usp=share_link
 - Portfolio - https://ranjithkumar.web.app/
-- Skills - MEAN, PHP, MySQL, AWS, ORACLE, REDIS, HIBERNATE
+- Skills - MEAN, SPA, Javascript Libraries, NPM, UI/UX Development, RESTFUL APIs, Typescript, MySQL, AWS, REDIS, Postman, VS Code, PHP, ORACLE
 - Sample workouts,
    1. RK Task Strategi https://rk-task-strategi.web.app/
       Username: admin,
