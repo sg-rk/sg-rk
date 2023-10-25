@@ -4,7 +4,7 @@
 - 📫 How to reach me<br>
    📧 Email - sgrkranjithkumar@gmail.com<br>
    📱 Mobile - 9092269469
-- Resume - https://drive.google.com/file/d/1pg_8YDGJznvRLq8NwtixQ4jq7cXU0y7j/view?usp=share_link
+- Resume - https://drive.google.com/file/d/1HH7fP-hard8TEqaFSTR--upL-2vN1Rot/view?usp=sharing
 - Stackblitz Profile - https://stackblitz.com/@sg-rk
 - Leetcode Profile - https://leetcode.com/sgrkranjithkumar/
 - Hackerrank Profile - https://www.hackerrank.com/profile/sgrkranjithkumar
