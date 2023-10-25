@@ -6,6 +6,8 @@
    📱 Mobile - 9092269469
 - Resume - https://drive.google.com/file/d/1pg_8YDGJznvRLq8NwtixQ4jq7cXU0y7j/view?usp=share_link
 - Stackblitz Profile - https://stackblitz.com/@sg-rk
+- Leetcode Profile - https://leetcode.com/sgrkranjithkumar/
+- Hackerrank Profile - https://www.hackerrank.com/profile/sgrkranjithkumar
 - Portfolio - https://ranjithkumar.web.app/
 - Skills - MEAN, SPA, Javascript Libraries, NPM, UI/UX Development, RESTFUL APIs, Typescript, MySQL, AWS, REDIS, Postman, VS Code, PHP, ORACLE
 - Sample workouts,
